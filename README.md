@@ -57,9 +57,9 @@ Nesse projeto foi solicitado um passo a passo de manutenção(transformação) q
 Feito um relatório simples, afim de trazer visualização dos dados que foi trabalhado. Optei por fazer uma gestão dos projetos. Pois no banco de dados exisitia originalmente 5 tabelas: **funcionários, departamento, localização de departamento, projetos, e trabalhos.**
 Na tabela funcionários contém informações cadastrais de funcionarios, na departamentos contém sobre o departamento, localização o nome já fiz, projetos contém nome do projeto e departamento responsável, na de trabalho contém identificação de projeto, funcionario e horas utilizadas.
 
-No relatório coloquei **cartões** informando maioir salário, menor salário, quantidade de funcionarios feminino, quantidade de funcionários masculinos e total de horas gastas em todos os projetos. Para fazer os cartões femininos e masculinos utilizei medida com dax, mesmo não sendo abordado no curso.
+No relatório coloquei **cartões** informando maior salário, menor salário, quantidade de funcionarios feminino, quantidade de funcionários masculinos e total de horas utilizadas em todos os projetos. Para fazer os cartões femininos e masculinos utilizei medida com dax, mesmo não sendo abordado no curso.
 
-Utilizei 4 **graficos, pizza, barras, colunas e treemap**. Cada um com seu respectivo assunto: projeto por localização, quantidade de projetos por funcionários, soma de horas por de por departamento e contagem  de projetos por departamentos.
+Utilizei 4 **graficos, pizza, barras, colunas e treemap**. Cada um com seu respectivo assunto: projeto por localização, quantidade de projetos por funcionários, soma de horas por departamento e contagem  de projetos por departamentos.
 
 <img src="https://github.com/lica-alc/BootCamp-Santander-Power-Query/blob/main/Imagens/Relat%C3%B3rio.png" width="400" />
 
