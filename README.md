@@ -63,6 +63,8 @@ Utilizei 4 **graficos, pizza, barras, colunas e treemap**. Cada um com seu respe
 
 <img src="https://github.com/lica-alc/BootCamp-Santander-Power-Query/blob/main/Imagens/Relat%C3%B3rio.png" width="400" />
 
+**Ps: Projeto no power bi em anexo**
+
 
 
 ## :handshake: Colaboradores
